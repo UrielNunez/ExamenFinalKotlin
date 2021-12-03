@@ -1,9 +1,11 @@
 package com.example.alumnos
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import com.example.alumnos.Login.SignInActivity
 import com.example.alumnos.databinding.ActivityMainBinding
 import com.example.alumnos.databinding.ActivitySignInBinding
 import com.google.firebase.auth.FirebaseAuth
@@ -24,5 +26,17 @@ class MainActivity : AppCompatActivity() {
         // Initialize Firebase Auth
         auth = Firebase.auth
 
+        binding.button.setOnClickListener {
+            signOut()
+        }
+
+
+
+    }
+
+    private fun signOut(){
+        Firebase.auth.signOut()
+        val intent = Intent(this, SignInActivity::class.java)
+        startActivity(intent)
     }
 }
