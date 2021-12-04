@@ -42,6 +42,10 @@ class AccountActivity : AppCompatActivity() {
         binding.profileImageView.setOnClickListener {
             fileManager()
         }
+        binding.updatePasswordTextView.setOnClickListener {
+            intent = Intent(this, UpdatePasswordActivity::class.java)
+            startActivity(intent)
+        }
 
         updateUI()
     }
