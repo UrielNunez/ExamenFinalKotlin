@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alumnos">
+    package="com.example.alumnos" >
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Alumnos">
+        android:theme="@style/Theme.Alumnos" >
+        <activity
+            android:name=".materias.DetailsActivity"
+            android:exported="true" />
         <activity
             android:name=".Login.DeleteAccountActivity"
             android:exported="true" />
@@ -17,7 +20,7 @@
         <activity
             android:name=".Splash.SplashActivity"
             android:exported="true"
-            android:theme="@style/SplashTheme">
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
