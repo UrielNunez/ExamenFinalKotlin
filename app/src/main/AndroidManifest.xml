@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Alumnos">
         <activity
+            android:name=".Login.DeleteAccountActivity"
+            android:exported="true" />
+        <activity
             android:name=".Login.UpdatePasswordActivity"
             android:exported="true" />
         <activity
