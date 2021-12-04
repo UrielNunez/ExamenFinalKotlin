@@ -15,3 +15,4 @@ es el segundo día y ya empiezan a escasear las esperanzas pero aún no estamos 
 Ayer no recordamos actualizar el readme de tanto cansancio que hemos tenido en los ultimos días,
 pero al menos si hicimos unos cambios al proyecto, aún no nos rendimos, esto aún no acaba y vamos a hacer lo posible para que este proyecto salga bien
 y si no que se note el esfuerzo que le pusimos.
+#################################################################
