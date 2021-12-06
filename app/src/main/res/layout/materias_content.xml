@@ -16,7 +16,7 @@
         android:layout_marginRight="16dp"
         app:cardCornerRadius="8dp"
         app:cardElevation="0dp"
-        app:cardBackgroundColor="#1AFFFFFF"
+        app:cardBackgroundColor="@color/card"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -37,7 +37,8 @@
                 android:layout_marginRight="120dp"
                 android:layout_marginBottom="8dp"
                 android:text="@string/nameM"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
+                android:textStyle="bold"
                 android:textSize="20sp" />
 
             <TextView
@@ -49,7 +50,7 @@
                 android:layout_marginEnd="120dp"
                 android:layout_marginRight="120dp"
                 android:layout_marginBottom="32dp"
-                android:textColor="#cbcbcb"
+                android:textColor="@color/black_500"
                 android:text="@string/date" />
 
             <TextView
@@ -61,7 +62,7 @@
                 android:layout_marginEnd="120dp"
                 android:layout_marginRight="120dp"
                 android:layout_marginBottom="32dp"
-                android:textColor="#cbcbcb"
+                android:textColor="@color/black_500"
                 android:text="@string/hora" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>

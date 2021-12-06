@@ -2,6 +2,7 @@ package com.example.alumnos.materias
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.example.alumnos.R
 import com.example.alumnos.databinding.ActivityAddBinding
 import com.example.alumnos.databinding.ActivityMainBinding
@@ -32,14 +33,22 @@ class AddActivity : AppCompatActivity() {
         val url=urlEditText.text
 
         saveButton.setOnClickListener {
-            val materias = Materias(
-                name.toString(),
-                date.toString(),
-                hora.toString(),
-                description.toString(),
-                url.toString())
-            myRef.child(myRef.push().key.toString()).setValue(materias)
-            finish()
+
+                when {
+                    name.isEmpty() || date.isEmpty() || hora.isEmpty() || description.isEmpty() || url.isEmpty() -> {
+                        Toast.makeText(baseContext, "Llena todos los campos",
+                            Toast.LENGTH_SHORT).show()
+                    } else -> {
+                    val materias = Materias(
+                        name.toString(),
+                        date.toString(),
+                        hora.toString(),
+                        description.toString(),
+                        url.toString())
+                    myRef.child(myRef.push().key.toString()).setValue(materias)
+                    finish()
+                }
+            }
         }
     }
 }
