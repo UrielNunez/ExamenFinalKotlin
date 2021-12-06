@@ -19,7 +19,7 @@ class EditActivity : AppCompatActivity() {
 
         val key = intent.getStringExtra("key")
         val database = Firebase.database
-        @Suppress("NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS") val myRef = database.getReference("videogame").child(
+        @Suppress("NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS") val myRef = database.getReference("materias").child(
             key.toString()
         )
 
