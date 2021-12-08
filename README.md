@@ -58,3 +58,5 @@ La verdad es que son muy buenas aplicaciones y nos gustaría que viera también 
 de cada una por si gusta verlo y si en su computadora puede correr flutter y quiere ver el código nostros encantados le pasamos las aplicaciones en un repo,
 si estás aplicaciones nos otorgan una ayuda extra estaría genial y lo valorariamos mucho ya que las hicimos a la par que las aplicaciones del proyecto.
 
+Ah y también hicimos esta web en el trabajo, por si algún día tiene algún evento importante ;) thebigday.mx
+
