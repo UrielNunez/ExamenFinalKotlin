@@ -1,3 +1,8 @@
+##### NOTAS #####
+En la app de maestros para ver una lista de alumnos debe dejar apretado la materia.
+
+
+
 ##### DIA 1 #####
 Comenzamos a realizar el proyecto hasta ahora 
 porque los demás proyectos nos mataron y consumieron todo nuestro tiempo..., 
@@ -16,3 +21,40 @@ Ayer no recordamos actualizar el readme de tanto cansancio que hemos tenido en l
 pero al menos si hicimos unos cambios al proyecto, aún no nos rendimos, esto aún no acaba y vamos a hacer lo posible para que este proyecto salga bien
 y si no que se note el esfuerzo que le pusimos.
 #################################################################
+
+##### DIA 4 #####
+Las esperanzas aún estaban y las ganas de sacar adelante este proyecto aún no eran completamente consumidas,
+sin embargo el cansancio fisico nos estaba acabando poco a poco, no sabíamos hasta que punto ibamos a aguantar.
+#################################################################
+
+##### DIA 5 #####
+En el quinto día hicimos buenos avances en las dos aplicaciones y aunque aún faltaban pocas cosas que agregariamos en las aplicaciones
+el final se sentía cerca y los dos estabamos esperanzados en que sería un buen final.
+#################################################################
+
+##### DIA 6 #####
+Este día empezó bien, nos fue bien en la presentación de nuestro proyecto en la materia de modelos abstractos (java) pero
+la preocupación empezó a reflejarse, no solo porque solo quedaban dos días para la entrega de este proyecto, si no porque
+también inicio el proyecto final de redes, que a nuestro parcer parecía que teniamos que instalar toda la infraestructura
+en una empresa con un edificio de más de 10 edificios pero bueno habría que hacerlo.
+#################################################################
+
+##### DIA 7 #####
+Sin dormir casi nada debido a que aún continuabamos haciendo el proyecto de redes, que cabe mencionar no lo logramos terminar al 100% :(,
+hicimos algunos cambios en las aplicaciones ya que nos dominaba el cansancio, pero estabamos listos para hacer la entrega de este proyecto
+aunque no con todo al 100% pero si con mucho esfuerzo y actitud.
+
+##### DIA 8 #####
+Llego el octavo día de este largo trayecto a través de este lenguaje llamado Kotlin, un lenguaje con sus ventajas y desventajas,
+como cualquier otro, pero con el que se pueden hacer grandes cosas, sabiendolo usar bien, ya teniamos lo que ibamos a entregar, aunque
+estuvo increíble el tiempo extra que nos dio para acabar, nosotros lo usariamos para 2 cosas, agregarle detalles de diseño a las aplicaciones y 
+tener listas unas aplicaciones que nos pidieron en el trabajo.
+
+Estás aplicaciones las realizamos con flutter una igual con firebase y otra consumiendo una api pública y aunque sabemos
+que no es el código que estamos viendo, este proyecto y las aplicaciones que nos pidieron en el trabajo, todo lo hicimos practicamente en el mismo tiempo
+es como si fueran hermanas jajaj
+
+La verdad es que son muy buenas aplicaciones y nos gustaría que viera también esas y no solo las aplicaciones del proyecto, le dejaremos un video
+de cada una por si gusta verlo y si en su computadora puede correr flutter y quiere ver el código nostros encantados le pasamos las aplicaciones en un repo,
+si estás aplicaciones nos otorgan una ayuda extra estaría genial y lo valorariamos mucho ya que las hicimos a la par que las aplicaciones del proyecto.
+
