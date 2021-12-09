@@ -6,14 +6,14 @@ Contrseña : 654321
 Usuario : 00070301@delasalle.edu
 Contrseña : 654321
 
-__1. Para ver detalle de las materias dar click a una de ellas.__
-2. Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca.
-3. Para agregar una nueva materia dar click en el FloatingActionButton.
-4. Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha.
-5. Para cambiar nombre rellenar editText y dar en el boton de guardar.
-6. Para cambiar la foto de perfil del usuario dar click a la imagen circular que aparece arriba del nombre e ingresar una nueva imagen del dispositivo. 
-7. Para cambiar contraseña dar click en textView "cambiar contraseña" y llenar los campos requeridos(el cual como minimo debera contener 6 caracteres solamente).
-8. Para salir del perfil dar click en el icono de salir para hacer LogOut.
+- Para ver detalle de las materias dar click a una de ellas
+- Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca
+- Para agregar una nueva materia dar click en el FloatingActionButton
+- Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha
+- Para cambiar nombre rellenar editText y dar en el boton de guardar
+- Para cambiar la foto de perfil del usuario dar click a la imagen circular que aparece arriba del nombre e ingresar una nueva imagen del dispositivo
+- Para cambiar contraseña dar click en textView "cambiar contraseña" y llenar los campos requeridos(el cual como minimo debera contener 6 caracteres solamente)
+- Para salir del perfil dar click en el icono de salir para hacer LogOut
 
 ##### DIA 1 #####
 Comenzamos a realizar el proyecto hasta ahora 
@@ -71,4 +71,9 @@ de cada una por si gusta verlo y si en su computadora puede correr flutter y qui
 si estás aplicaciones nos otorgan una ayuda extra estaría genial y lo valorariamos mucho ya que las hicimos a la par que las aplicaciones del proyecto.
 
 Ah y también hicimos esta web en el trabajo, por si algún día tiene algún evento importante ;) [thebigday.mx](https://thebigday.mx)
+
+[![Flutter MovieApp](https://media.giphy.com/media/FCPso9BiWWO6bjXJKT/giphy.gif)](https://drive.google.com/file/d/1B6jP-jqA0lbyCFC4sKOQ8Rlw_92bXa8p/view?usp=sharing)
+
+__CLICK en gif para descargar video completo__
+
 
