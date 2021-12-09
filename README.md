@@ -1,7 +1,19 @@
-##### NOTAS #####
-En la app de maestros para ver una lista de alumnos debe dejar apretado la materia.
+##### NOTAS PARA APP ALUMONS #####
 
+Usuario : 00070339@delasalle.edu
+Contrseña : 654321
 
+Usuario : 00070301@delasalle.edu
+Contrseña : 654321
+
+1._Para ver detalle de las materias dar click a una de ellas.
+2._Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca.
+3._Para agregar una nueva materia dar click en el FloatingActionButton.
+4._Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha.
+5._Para cambiar nombre rellenar editText y dar en el boton de guardar.
+6._Para cambiar la foto de perfil del usuario dar click a la imagen circular que aparece arriba del nombre e ingresar una nueva imagen del dispositivo. 
+7._Para cambiar contraseña dar click en textView "cambiar contraseña" y llenar los campos requeridos(el cual como minimo debera contener 6 caracteres solamente).
+8._Para salir del perfil dar click en el icono de salir para hacer LogOut.
 
 ##### DIA 1 #####
 Comenzamos a realizar el proyecto hasta ahora 
