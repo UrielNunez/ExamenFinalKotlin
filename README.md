@@ -8,6 +8,7 @@ Contrseña : 654321
 
 - Para ver detalle de las materias dar click a una de ellas
 - Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca
+- Para eliminar una materia deslizar la tarjeta de derecha a izquierda 
 - Para agregar una nueva materia dar click en el FloatingActionButton
 - Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha
 - Para cambiar nombre rellenar editText y dar en el boton de guardar
