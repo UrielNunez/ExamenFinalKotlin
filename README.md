@@ -6,14 +6,14 @@ Contrseña : 654321
 Usuario : 00070301@delasalle.edu
 Contrseña : 654321
 
-1._ Para ver detalle de las materias dar click a una de ellas.
-2._ Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca.
-3._ Para agregar una nueva materia dar click en el FloatingActionButton.
-4._ Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha.
-5._ Para cambiar nombre rellenar editText y dar en el boton de guardar.
-6._ Para cambiar la foto de perfil del usuario dar click a la imagen circular que aparece arriba del nombre e ingresar una nueva imagen del dispositivo. 
-7._ Para cambiar contraseña dar click en textView "cambiar contraseña" y llenar los campos requeridos(el cual como minimo debera contener 6 caracteres solamente).
-8._ Para salir del perfil dar click en el icono de salir para hacer LogOut.
+__1. Para ver detalle de las materias dar click a una de ellas.__
+2. Para editar una de las materias dejar precionado hasta que el formulario de editar aparezca.
+3. Para agregar una nueva materia dar click en el FloatingActionButton.
+4. Para ver la vista de Perfil de usuario dar click en el icono de la parte superior derecha.
+5. Para cambiar nombre rellenar editText y dar en el boton de guardar.
+6. Para cambiar la foto de perfil del usuario dar click a la imagen circular que aparece arriba del nombre e ingresar una nueva imagen del dispositivo. 
+7. Para cambiar contraseña dar click en textView "cambiar contraseña" y llenar los campos requeridos(el cual como minimo debera contener 6 caracteres solamente).
+8. Para salir del perfil dar click en el icono de salir para hacer LogOut.
 
 ##### DIA 1 #####
 Comenzamos a realizar el proyecto hasta ahora 
@@ -70,5 +70,5 @@ La verdad es que son muy buenas aplicaciones y nos gustaría que viera también 
 de cada una por si gusta verlo y si en su computadora puede correr flutter y quiere ver el código nostros encantados le pasamos las aplicaciones en un repo,
 si estás aplicaciones nos otorgan una ayuda extra estaría genial y lo valorariamos mucho ya que las hicimos a la par que las aplicaciones del proyecto.
 
-Ah y también hicimos esta web en el trabajo, por si algún día tiene algún evento importante ;) thebigday.mx
+Ah y también hicimos esta web en el trabajo, por si algún día tiene algún evento importante ;) [thebigday.mx](https://thebigday.mx)
 
