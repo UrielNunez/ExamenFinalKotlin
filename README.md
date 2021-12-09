@@ -76,6 +76,7 @@ Ah y también hicimos esta web en el trabajo, por si algún día tiene algún ev
 
 __CLICK en gif para descargar video completo__
 
-[![Flutter ProductsApp](https://gfycat.com/dishonestlankygelding)](https://drive.google.com/file/d/1CC89EqNfRuEOdSJi6de-i0cnT3HAim0G/view?usp=sharing)
+[![Flutter ProductsApp](https://media.giphy.com/media/wvoI5ZoE6rg6wEawqC/giphy.gif)](https://drive.google.com/file/d/1CC89EqNfRuEOdSJi6de-i0cnT3HAim0G/view?usp=sharing)
 
 __CLICK en gif para descargar video completo__
+De preferencia si ver el video porque en el gif no se logra ver practicamente nada de lo que hace la app
