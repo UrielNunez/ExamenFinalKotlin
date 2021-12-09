@@ -76,6 +76,6 @@ Ah y también hicimos esta web en el trabajo, por si algún día tiene algún ev
 
 __CLICK en gif para descargar video completo__
 
-[![Flutter ProductsApp](https://media.giphy.com/media/BVgQSnIRHmIW4zEtIM/giphy.gif)](https://drive.google.com/file/d/1CC89EqNfRuEOdSJi6de-i0cnT3HAim0G/view?usp=sharing)
+[![Flutter ProductsApp](https://gfycat.com/vainequatorialgreathornedowl)](https://drive.google.com/file/d/1CC89EqNfRuEOdSJi6de-i0cnT3HAim0G/view?usp=sharing)
 
 __CLICK en gif para descargar video completo__
