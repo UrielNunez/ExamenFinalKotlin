@@ -81,3 +81,9 @@ __CLICK en gif para descargar video completo__
 
 __CLICK en gif para descargar video completo__
 De preferencia si ver el video porque en el gif no se logra ver practicamente nada de lo que hace la app
+
+##### DIA 9 #####
+Nos fuimos a vacunar ya segunda dosis, gracias a Dios :)
+No hay video de Uriel
+[![Vacuna](https://media.giphy.com/media/59SFcHCwWfBRJLcPMe/giphy-downsized-large.gif)]
+
